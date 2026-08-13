@@ -17,8 +17,6 @@ scry-seers-sanctum/
 └── README.md
 ```
 
-No `lib/` folder — the loader finds this gem via gemspec metadata.
-
 ## Install (path)
 
 ```ruby
