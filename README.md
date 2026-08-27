@@ -27,4 +27,4 @@ end
 gem "scry-seers-sanctum", path: "../scry-seers-sanctum"
 ```
 
-Requires `jekyll-scry-content` in the host site's `plugins:` list. Soft-depends on an OSE ruleset content gem for in-adventure rules links.
+Requires `jekyll-scry-content` in the host site's `plugins:` list. Soft-depends on an OSE ruleset content gem for in-adventure rules links, and on `scry-rpg-callouts` for monster/item callouts.

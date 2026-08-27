@@ -9,6 +9,7 @@ license:
   art: "all-rights-reserved"
 requires:
   rulesets: [ose]
+  content: [rpg-callouts]
   plugins:
     - jekyll-image-links
     - jekyll-dice-tray
